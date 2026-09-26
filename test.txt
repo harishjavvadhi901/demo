@@ -1,0 +1,7 @@
+this is sample 
+and reference purpose
+im working on the git commands
+git init to intalize the git 
+git status to check the file status
+git add to add the files
+git commit -m to save the changes 
